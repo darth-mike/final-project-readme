@@ -1,5 +1,5 @@
 # Simple Bloggg
-#### Video Demo: 
+#### Video Demo: https://youtu.be/Ik6vzX66jbw
 
 ## **Table of contents**
 * [Introduction](#introduction)
